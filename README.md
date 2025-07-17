@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lynxkor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... lynx.kor@163.com
+- 👋 Hi, I’m @lynxkor.
+- 👀 I’m interested in automobile manufacturing, motorcycles, mountain climbing, marathons, cooking, and string weaving.
+- 🌱 I’m currently learning .net 8/10, welding, and carpentry
+- 💞️ I’m looking to collaborate on nature
+- 📫 How to reach me is lynx.kor@163.com
 
 <!---
 lynxkor/lynxkor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
